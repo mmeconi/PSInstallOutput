@@ -5,7 +5,7 @@
   The script stores all relevant data to be included in the report in variables. The data contained in these variables
   is then outputted to the PSInventory.txt file via re-direction. Asterisks added to aid in readability of report.
 .NOTES
-  AuthorName: Marc Meconi
+  AuthorName: mmeconi
   DateLastModified: September 25, 2020
   #>
 
